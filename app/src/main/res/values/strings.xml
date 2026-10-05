@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dice roller</string>
+    <!-- Agregas esta línea para el texto del botón -->
+    <string name="roll">Roll</string>
+</resources>
